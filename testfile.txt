@@ -1,2 +1,6 @@
 Creating a new file after the original one was already cloned in a local machine.
 This task is a supposed where a different developer added a new file to the project.
+
+Added new lines to our code.
+
+print("hello")
