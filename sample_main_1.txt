@@ -1,1 +1,2 @@
 sending text to sample_main_1.txt
+This is stash lecture, change in sample_main_1 2
