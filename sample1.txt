@@ -6,3 +6,4 @@ and sewage turned it into a green soup. Can local activists help restore it?
 This is comparation lecture sample2.txt
 
 This is stash lecture, change in file 1
+This is stash lecture, change for untracked Files in File 1
