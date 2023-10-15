@@ -2,3 +2,6 @@ Testing my first branch with sample1.txt
 
 Mar Menor used to be a Spanish treasure until pesticide runoff
 and sewage turned it into a green soup. Can local activists help restore it?
+
+This is comparation lecture sample2.txt
+

@@ -1,1 +1,3 @@
 this is samplefile2.txt
+testing rest commit 2
+This is comparation lecture
